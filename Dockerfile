@@ -1,1 +1,1 @@
-From docker.io/bitnami/thanos:0.27.0-scratch-r6
+From docker.io/bitnami/bitnami-shell:11-debian-11-r21
