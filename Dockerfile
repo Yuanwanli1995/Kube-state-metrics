@@ -1,1 +1,1 @@
-From docker.io/bitnami/bitnami-shell:11-debian-11-r21
+From docker.io/bitnami/grafana:9.0.7-debian-11-r0
