@@ -1,1 +1,1 @@
-From docker.io/bitnami/grafana:9.0.7-debian-11-r0
+From k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
