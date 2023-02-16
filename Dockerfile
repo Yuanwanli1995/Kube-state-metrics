@@ -1,1 +1,1 @@
-From nacos/nacos-server:v2.1.0
+From quay.io/openstack.kolla/fluentd:master-rocky-9
